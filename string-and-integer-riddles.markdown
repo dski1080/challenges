@@ -32,7 +32,7 @@ a string? What about x asterisks? .prepend method, .insert method
 * What if I wanted to have a string that's four characters long, but I want to
 make a big string thats 14 characters in length, with the original string in the
 middle, with asterisks on either side of the original string to make it reach
-the desired length?
+the desired length? .center, .ljust, .rjust
 
 * What if I wanted to replace the padding character with spaces? And a variable
 total length?  
